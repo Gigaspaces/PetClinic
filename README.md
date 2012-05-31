@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/OpenSpaces/PetClinic.png)](http://travis-ci.org/OpenSpaces/PetClinic)
+
 <h2>General</h2>
 
 <p>This example is an implementation of the Spring PetClinic application based on GigaSpaces as the backbone instead of a relational database. It is a reference implementation rather than a fully optimized production application.<br/>
