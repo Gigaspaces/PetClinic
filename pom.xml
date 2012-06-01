@@ -24,6 +24,11 @@
 		<id>org.openspaces</id>
 		<url>http://maven-repository.openspaces.org</url>
 	</repository>
+	<repository>
+            <id>JBoss</id>
+            <name>JBoss Repository</name>
+            <url>http://repository.jboss.org/maven2/</url>
+        </repository>
     </repositories>
 
     <dependencies>
@@ -113,11 +118,4 @@
             </plugin>
         </plugins>
     </build>
-    <repositories>
-        <repository>
-            <id>JBoss</id>
-            <name>JBoss Repository</name>
-            <url>http://repository.jboss.org/maven2/</url>
-        </repository>
-    </repositories>
 </project>
