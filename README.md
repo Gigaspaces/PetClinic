@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/OpenSpaces/PetClinic.png)](http://travis-ci.org/OpenSpaces/PetClinic)
+[![Build Status](https://secure.travis-ci.org/Gigaspaces/PetClinic.png)](http://travis-ci.org/Gigaspaces/PetClinic)
 
 <h2>General</h2>
 
